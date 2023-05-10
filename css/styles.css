@@ -1,12 +1,12 @@
 
 body {
-   font-family: 'Roboto', sans-serif
+   font-family: "Roboto", sans-serif
    colors: #434455;
    background: #FFFFFF;
 }
 /* header */
 .logo-blak {
-font-family: 'Raleway', sans-serif;
+font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
@@ -27,7 +27,7 @@ flex-grow: 0;
 }
 
 .logo {
-font-family: 'Raleway', sans-serif;
+font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
@@ -46,7 +46,7 @@ color: #4D5AE5;
 }
 
 .link {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -64,7 +64,7 @@ color: #4D5AE5;
 }
 .address {
 
-font-family: 'Roboto';
+font-family: "Roboto", sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -99,7 +99,7 @@ background: #4D5AE5;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 
 border-radius: 4px;
-font-family: 'Roboto', sans-serif;
+font-family: "Roboto", sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -167,7 +167,7 @@ color: #2E2F42;
 
 
 .logo-footer {
-font-family: 'Raleway', sans-serif;
+font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
@@ -199,7 +199,7 @@ color: #F4F4FD;
 }
 /* portfolio */
 .btn-portfolio {
-font-family: 'Roboto', sans-serif;
+font-family: "Roboto", sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
