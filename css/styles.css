@@ -1,7 +1,10 @@
+:root {
+
+}
 
 body {
-   font-family: "Roboto", sans-serif
-   colors: #434455;
+   font-family: "Roboto", sans-serif;
+   color: #434455;
    background: #FFFFFF;
 }
 /* header */
@@ -61,6 +64,10 @@ color: #4D5AE5;
     flex-grow: 0;
 
     text-decoration: none
+}
+.adress-header {
+    font-style: normal;
+    list-style: none;
 }
 .address {
 
@@ -156,7 +163,7 @@ text-transform: capitalize;
 color: #2E2F42;
 }
 .section-team {
-    background-color: #FFFFFF
+    background-color:  #F4F4FD;
 }
 
 /* footer */
