@@ -36,21 +36,24 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
 
-text-decoration: none;
-
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 
 color: #4D5AE5;
+}
 
+.link {text-decoration: none;
 
 }
 
-.link {
-    font-family: "Roboto", sans-serif;
-    font-style: normal;
+.list {
+    list-style: none;
+}
+
+.link-link {
+    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -65,10 +68,7 @@ color: #4D5AE5;
 
     text-decoration: none
 }
-.adress-header {
-    font-style: normal;
-    list-style: none;
-}
+
 .address {
 
 font-family: "Roboto", sans-serif;
