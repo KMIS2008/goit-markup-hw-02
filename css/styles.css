@@ -84,6 +84,11 @@ color:  var(--address-color)
 text-decoration: none;
 }
 
+.link-address:hover,
+.link-address:focus {
+color: #404BBF;
+}
+
 .header {
     font-weight: 700;
     font-size: 56px;
@@ -258,7 +263,3 @@ border-radius: 4px;
 color: #FFFFFF;
 }
 
-.link-address:hover,
-.link-address:focus {
-color: #404BBF;
-}
