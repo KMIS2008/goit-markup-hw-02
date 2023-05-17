@@ -1,3 +1,9 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
 :root { --address-color: #434455; 
     --background-main: #FFFFFF;
     --logo-color:#2E2F42;
@@ -8,12 +14,25 @@
     
 }
 
+p,h1,h2,h3,h4,h5,h6,ul,ol {
+    margin: 0;
+    padding: 0;
+}
+
 body {
    font-family: "Roboto", sans-serif;
    color: var(--address-color);
    background: var(--background-main);
 
 }
+
+.container {
+width: 1158px;
+padding-left: 15px;
+padding-right: 15px;
+margin: 0, auto;
+}
+
 /* header */
 .logo-blak {
 font-family: "Raleway", sans-serif;
@@ -98,6 +117,11 @@ color:var(--hover-color);
     letter-spacing: 0.02em;
     
     color: var(--background-main);
+
+    padding-top: 188px, 472px, 0, 472px;
+
+    margin-bottom: 48px;
+
 }
 
 /* main */
@@ -106,6 +130,7 @@ background: var(--logo-color);
 }
 
 .button {
+
 
 background: var(--link-color);
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
